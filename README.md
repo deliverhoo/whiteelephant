@@ -1,5 +1,9 @@
 # whiteelephant
-Virtual White Elephant
+Virtual White Elephant - Very rudimentary. Quick working protype.
+
+# How to play
+1. One person is the host (and does all of the below)
+2. Everyone mails the host a photo of the gift (and their own photo - or host can add any photo)
 
 # How to setup:
 1. Clone this repository
@@ -33,3 +37,19 @@ Virtual White Elephant
   c. Each gift should also have a wrap with the same name as specified while saving the gift. Gift wrap photos should be inside: static\giftboxes
 
 There are example photos of gifts, gift boxes inside the respective directories. There are no example photos of players. Please add that.
+
+# To Play Game:
+1. When game was created, there is a game id. Go to http://127.0.0.1:8000/admin to look up the game id if you didn ttake note
+2. Go to http://127.0.0.1:8000/game/<game_id>
+3. Share screen in zoom or whereever. 
+4. Click on Start Game when everyone is ready to start Game.
+5. Reset Game will clear everything. There is no double confirmation so be careful.
+6. The number is yellow is the sequence number that was randomly generated for that person.
+7. Number in red is the number of times, the gift was stolen.
+8. If Lock sign in Red, then that gift cannot be stolen.
+
+# Rules for the Game:
+1. Gift Value  - You decide. (Change that in the code) - Should have added it to the model but forgot.
+2. Maximum 3 steals of any gift
+3. Gift cannot be stolen in the same round
+4. 1st player goes again - Last Round
