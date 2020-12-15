@@ -54,4 +54,4 @@ There are example photos of gifts, gift boxes inside the respective directories.
 3. Gift cannot be stolen in the same round
 4. 1st player goes again - Last Round
 
-# If you find bugs, please fix it yourself. This is just meant ot be a starting point for someone who wants something quick and dirty.
+# If you find bugs, please fix it yourself. This is just meant to be a starting point for someone who wants something quick and dirty.
