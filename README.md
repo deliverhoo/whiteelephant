@@ -29,7 +29,7 @@ Virtual White Elephant
 1. For each player, there is a photo file name (from above). Have a photo of size 128x128 pixels for each player with correct file name in static\players
 2. For each gift, there are 3 photos
   a. Photo of gift thumbnail 128x128 pixels (same name as used when saving in database)
-  b. Photo of actual gift (full size). Name should be same as saved in database above with "_big_" added to the end of the file name. Gift photos should be inside: static\gifts
+  b. Photo of actual gift (full size). Name should be same as saved in database above with `_big` added to the end of the file name. Gift photos should be inside: static\gifts
   c. Each gift should also have a wrap with the same name as specified while saving the gift. Gift wrap photos should be inside: static\giftboxes
 
 There are example photos of gifts, gift boxes inside the respective directories. There are no example photos of players. Please add that.
