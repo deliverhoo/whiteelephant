@@ -19,10 +19,10 @@ Virtual White Elephant
 # Create a Game
 1. Goto:  http://127.0.0.1:8000/admin or whatever IP and port assigned by manage.py
 2. Click on Games > Add Game > Save
-3. Click on Add Player > Add Name and Photo file name (will get to that later). Dont enter enything in the position. Leave it at 0
+3. Click on Add Player > Add Name and Photo file name (will get to that later). Dont enter anything in the position. Leave it at 0
 4. Add as many players as you want
-5. Click on Game Properties > Select Game > Dont select anythign else and click on Save.
-6. Click on Gifts > Add Gift > Select Original Owner and Fill in Gift File Name and photo og gift wrap for that gift. Click on Save.
+5. Click on Game Properties > Select Game > Dont select anything else and click on Save.
+6. Click on Gifts > Add Gift > Select Original Owner and Fill in Gift File Name and photo of gift wrap for that gift. Click on Save.
 7. Add gifts for all players.
 
 # Files setup
